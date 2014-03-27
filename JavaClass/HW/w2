@@ -1,0 +1,34 @@
+Tom Ayotte
+600.107
+February 15, 2012
+1a
+781-771-7151
+tayotte1
+tayotte1@jhu.edu
+
+
+20 math credits - only courses from departments 110 and 550 may count.
+2 writing courses - only courses with at least 3 credits and a W designator may count.
+18 humanities or social science credits - only courses with at least 3 credits and an H or an S (or both) designator may count.
+36 credits from your major department, at least 16 of which are upper level courses - 
+only courses that match the input department code may be counted, and only those with numbers >=300 qualify for the upper level category.
+elective credits so that the total number of credits taken is at least 124.
+
+1. Input 110.something, have it output the course counts as a math credit
+2. Input 550.something, have it output the course counts as a math credit
+3. Input w and 3 or more credits, have it output course counts as a writing course
+4. Input W and fewer than 3 credits, have it not output course counts as a writing course
+5. Input H and 3.0 or more credits, have it output the course counts as humanities
+6. Input H and fewer than 3 credits, have it not output the course counts as humanities
+7. Input S and 3 or more credits, have it output the course counts as social sciences
+8. Input S and fewer than 3 credits, have it not output the course counts as social sciences
+9. Input H and S and 3 or more credits, have it output the course counts as humanities and social sciences
+10. Input H and S and fewer than 3 credits, have it not output the course counts as humanities or social sciences
+11. Input same department code and <.300, have it output the course counts toward your lower level major requirement
+12. Input same department code and >=.300, have it output the course counts toward your upper level major requirement
+13. Input not 110.something or 550.something and E, have it output the course counts as only an elective
+14. Input not 110.something or 550.something and Q, have it output the course counts as only an elective
+15. Input not 110.something or 550.something and N, have it output the course counts as only an elective
+16. Input not 110.something or 550.something and no identifier, have it output the course counts as only an elective
+
+

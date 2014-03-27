@@ -1,0 +1,48 @@
+Tom Ayotte
+W8
+
+Ask for the name of the files and create Accounts and AcountList then
+have a switch case to call each thing in the transaction
+public class main{
+}
+
+read the input and store each account with a name, number, area code,
+number of texts and data. 
+public class Account(){
+	//instance members
+	String name,number,area;
+	int texts, data;
+}
+
+do everything in the transaction 
+public class AccountList(){
+
+	//instance members
+	String name,number,area;
+	int texts, data;
+	
+	public numAccounts(){
+	}
+	
+	public accountsAlpha(){
+	}
+	
+	public accountsNum(){
+	}
+	
+	public addAccount(String name String number){
+	}
+	
+	public addText(String area){
+	}
+	
+	public addData(){
+	}
+	
+	public deleteAccount(String name String number){
+	}
+	
+	public displayBill(){
+	}
+	
+}

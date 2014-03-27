@@ -1,0 +1,69 @@
+Sample Run #1
+	How many minutes do you use per month? 
+		730
+	How many text messages do you use per month?
+		1300
+	What is the base price of plan A?
+		39.99
+	How many minutes do you get with plan A?
+		600
+	What is the overage charge per minute for plan A?
+		.45
+	What is the base price of plan B?
+		54.30
+	How many texts do you get with plan B?
+		1200
+	What is the overage charge per text for plan B?
+		.2
+	
+		
+	Plan A (unlimited texts 600 minutes):
+		Minutes over: 130
+		Fee due to overage: $52.00
+		Base price: $39.99
+	Total Charge per Month: $91.99
+	
+	Plan B (unlimited minutes 1200 texts):
+		Texts over: 100
+		Fee due to overage: $20.00
+		Base Price: $54.30
+	Total Charge per Month: $73.30
+	
+	Plan B would be cheaper for an average month
+	
+	
+	
+Sample Run #2
+	How many minutes do you use per month? 
+		100
+	How many text messages do you use per month?
+		1900
+	What is the base price of plan A?
+		49.99
+	How many minutes do you get with plan A?
+		50
+	What is the overage charge per minute for plan A?
+		.50
+	What is the base price of plan B?
+		39.99
+	How many texts do you get with plan B?
+		1500
+	What is the overage charge per text for plan B?
+		.10
+		
+	Plan A (unlimited texts 50 minutes):
+		Minutes over: 50
+		Fee due to overage: $25.00
+		Base price: $49.99
+	
+	Total Charge per Month: $74.99
+	
+	Plan B (unlimited minutes 1500 texts):
+		Texts over: 400
+		Fee due to overage: $40.00
+		Base Price: $39.99
+		
+	Total Charge per Month: $79.99
+	
+	Plan A would be cheaper for an average month
+	

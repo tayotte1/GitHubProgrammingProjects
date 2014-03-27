@@ -1,0 +1,22 @@
+GPA Problem Analysis
+
+Compute GPA based on course grades and credits
+
+Sample Run:
+How many courses? 4
+Enter Letter Grade and credits for each course. such as A- 3.0:
+1)A 3
+2)B- 4
+3)C+ 3
+4)B 4.5
+GPA is 2.98
+
+Problem Analysis:
+a => 4*3 = 12
+b- => 2.7*4 = 10.8
+C+ => 2.3*3 = 6.9
+b => 3*4.5 = 13.5
+=====================
+43.2 total points / 14.5 = 2.98
+
+2)
