@@ -1,0 +1,28 @@
+These are examples of code I wrote for nonlinear systems.
+
+Q6Main.m
+
+This code will show an example of a closed loop controller for a nonlinear system.
+There are two parts to it. One will avoid an obstacle the other will just go to a point.
+
+To run my code please follow these instructions:
+1. Open 'Q6Main.m'
+2. Delete the "%\" from whichever section you want to run (ie Obstacle Avoidence)
+3. Run and look at the plots that appear
+
+The obstacle avoidance takes about a minute to run on my machine but your machine is probably better than mine.
+
+
+Question4.m
+This code will show an example of trajectory generation for a differentially flat nonlinear system
+
+To run:
+1. Make sure car_flat_car.m is in your directory
+2. Run and look at the graphs that appear
+
+
+
+car_chained_test.m
+
+This code shows and example of a chained form trajectory generation
+Just run the code and a graph should appear showing the generated trajectory.
