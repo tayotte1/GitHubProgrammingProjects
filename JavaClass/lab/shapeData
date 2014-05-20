@@ -1,8 +1,0 @@
-rectangle % 35 5
-triangle * 4
-rectangle ^ 7 7
-triangle @ 8
-rectangle * 4 9
-rectangle # 37 4
-triangle * 6
-diamond = 11

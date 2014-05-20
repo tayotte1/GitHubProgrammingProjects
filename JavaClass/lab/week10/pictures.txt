@@ -1,8 +1,0 @@
-red dog [300,400]
-blue sky [350,250]
-carrots [100,200]
-cranberry juice [400,200]
-shades [300,100]
-johnny [500,400]
-dixie cup on bed [430,120]
-puzzles [500,400]
