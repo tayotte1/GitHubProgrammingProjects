@@ -1,0 +1,5 @@
+README
+
+Question3 will run all the necessary code to produce the screenshots in output.docx
+
+It takes a point in 3d space and provides angles for the robots joints in order for the gripper to reach the point
